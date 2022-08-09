@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.error{
+  color: red;
+  padding: 10px 5px;
+
+}
+.add_employee{
+  margin: 10px 0px;
+}
+#form{
+  display: none;
+}
+.cancel_employee{
+  display: none;
+
+}
